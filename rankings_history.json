@@ -1,1 +1,19 @@
-{"version":1,"pairs":[],"history":[]}
+{
+  "version": 1,
+  "pairs": [
+    { "id": "bs-premium", "keyword": "Bambus Sichtschutzzaun", "asin": "B09ZYRJ5DH", "label": "Premium" },
+    { "id": "bs-classic", "keyword": "Bambus Sichtschutzzaun", "asin": "B07NDW7JXG", "label": "Classic" },
+    { "id": "sb-premium", "keyword": "Sichtschutzzaun Bambus", "asin": "B09ZYRJ5DH", "label": "Premium" },
+    { "id": "sb-classic", "keyword": "Sichtschutzzaun Bambus", "asin": "B07NDW7JXG", "label": "Classic" }
+  ],
+  "history": []
+}{
+  "version": 1,
+  "pairs": [
+    { "id": "bs-premium", "keyword": "Bambus Sichtschutzzaun", "asin": "B09ZYRJ5DH", "label": "Premium" },
+    { "id": "bs-classic", "keyword": "Bambus Sichtschutzzaun", "asin": "B07NDW7JXG", "label": "Classic" },
+    { "id": "sb-premium", "keyword": "Sichtschutzzaun Bambus", "asin": "B09ZYRJ5DH", "label": "Premium" },
+    { "id": "sb-classic", "keyword": "Sichtschutzzaun Bambus", "asin": "B07NDW7JXG", "label": "Classic" }
+  ],
+  "history": []
+}
