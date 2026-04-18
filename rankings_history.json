@@ -6,7 +6,9 @@
     "delayMs": 1500,
     "indexCheck": true
   },
-  "labels": [],
+  "labels": [
+    "NIGRA"
+  ],
   "pairs": [
     {
       "id": "bs-premium",
