@@ -240,6 +240,47 @@
           "pages": 2
         }
       }
+    },
+    {
+      "ts": "2026-04-18T18:01:09.261Z",
+      "results": {
+        "bs-premium": {
+          "organic": null,
+          "sponsored": 2,
+          "indexed": false,
+          "pages": 2
+        },
+        "bs-classic": {
+          "organic": null,
+          "sponsored": 1,
+          "indexed": false,
+          "pages": 2
+        },
+        "sb-premium": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "sb-classic": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "p_70e4b267": {
+          "organic": null,
+          "sponsored": 2,
+          "indexed": false,
+          "pages": 2
+        },
+        "p_3a972f93": {
+          "organic": null,
+          "sponsored": 1,
+          "indexed": false,
+          "pages": 2
+        }
+      }
     }
   ]
 }
