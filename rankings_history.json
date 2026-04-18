@@ -90,6 +90,35 @@
           "pages": 2
         }
       }
+    },
+    {
+      "ts": "2026-04-18T14:23:31.423Z",
+      "results": {
+        "bs-premium": {
+          "organic": 20,
+          "sponsored": 2,
+          "indexed": true,
+          "pages": 2
+        },
+        "bs-classic": {
+          "organic": 21,
+          "sponsored": 1,
+          "indexed": true,
+          "pages": 2
+        },
+        "sb-premium": {
+          "organic": 19,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "sb-classic": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        }
+      }
     }
   ]
 }
