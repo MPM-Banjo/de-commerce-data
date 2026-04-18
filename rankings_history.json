@@ -7,10 +7,60 @@
     "indexCheck": true
   },
   "pairs": [
-    { "id": "bs-premium", "keyword": "Bambus Sichtschutzzaun", "asin": "B09ZYRJ5DH", "label": "Premium" },
-    { "id": "bs-classic", "keyword": "Bambus Sichtschutzzaun", "asin": "B07NDW7JXG", "label": "Classic" },
-    { "id": "sb-premium", "keyword": "Sichtschutzzaun Bambus", "asin": "B09ZYRJ5DH", "label": "Premium" },
-    { "id": "sb-classic", "keyword": "Sichtschutzzaun Bambus", "asin": "B07NDW7JXG", "label": "Classic" }
+    {
+      "id": "bs-premium",
+      "keyword": "Bambus Sichtschutzzaun",
+      "asin": "B09ZYRJ5DH",
+      "label": "Premium"
+    },
+    {
+      "id": "bs-classic",
+      "keyword": "Bambus Sichtschutzzaun",
+      "asin": "B07NDW7JXG",
+      "label": "Classic"
+    },
+    {
+      "id": "sb-premium",
+      "keyword": "Sichtschutzzaun Bambus",
+      "asin": "B09ZYRJ5DH",
+      "label": "Premium"
+    },
+    {
+      "id": "sb-classic",
+      "keyword": "Sichtschutzzaun Bambus",
+      "asin": "B07NDW7JXG",
+      "label": "Classic"
+    }
   ],
-  "history": []
+  "history": [
+    {
+      "ts": "2026-04-18T13:59:07.982Z",
+      "results": {
+        "bs-premium": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": null,
+          "error": "serp_503"
+        },
+        "bs-classic": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "error": "serp_503"
+        },
+        "sb-premium": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": null,
+          "error": "serp_503"
+        },
+        "sb-classic": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "error": "serp_503"
+        }
+      }
+    }
+  ]
 }
