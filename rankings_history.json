@@ -6,6 +6,7 @@
     "delayMs": 1500,
     "indexCheck": true
   },
+  "labels": [],
   "pairs": [
     {
       "id": "bs-premium",
@@ -116,6 +117,35 @@
           "organic": null,
           "sponsored": null,
           "indexed": true,
+          "pages": 2
+        }
+      }
+    },
+    {
+      "ts": "2026-04-18T15:00:58.910Z",
+      "results": {
+        "bs-premium": {
+          "organic": null,
+          "sponsored": 2,
+          "indexed": false,
+          "pages": 2
+        },
+        "bs-classic": {
+          "organic": null,
+          "sponsored": 1,
+          "indexed": false,
+          "pages": 2
+        },
+        "sb-premium": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "sb-classic": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
           "pages": 2
         }
       }
