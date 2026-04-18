@@ -281,6 +281,47 @@
           "pages": 2
         }
       }
+    },
+    {
+      "ts": "2026-04-18T18:32:17.034Z",
+      "results": {
+        "bs-premium": {
+          "organic": 21,
+          "sponsored": 2,
+          "indexed": true,
+          "pages": 2
+        },
+        "bs-classic": {
+          "organic": 22,
+          "sponsored": 1,
+          "indexed": true,
+          "pages": 2
+        },
+        "sb-premium": {
+          "organic": 19,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "sb-classic": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_70e4b267": {
+          "organic": 12,
+          "sponsored": 1,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_3a972f93": {
+          "organic": null,
+          "sponsored": 1,
+          "indexed": true,
+          "pages": 2
+        }
+      }
     }
   ]
 }
