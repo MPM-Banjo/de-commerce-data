@@ -435,6 +435,83 @@
           "pages": 2
         }
       }
+    },
+    {
+      "ts": "2026-04-19T00:01:40.304Z",
+      "results": {
+        "bs-premium": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "bs-classic": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "sb-premium": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "sb-classic": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "p_70e4b267": {
+          "organic": null,
+          "sponsored": 3,
+          "indexed": false,
+          "pages": 2
+        },
+        "p_3a972f93": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "p_fa1e9b3d": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "p_105cfd4c": {
+          "organic": null,
+          "sponsored": 3,
+          "indexed": false,
+          "pages": 2
+        },
+        "p_ed11b911": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "p_9ea0db06": {
+          "organic": null,
+          "sponsored": 10,
+          "indexed": false,
+          "pages": 2
+        },
+        "p_973a7e2d": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": false,
+          "pages": 2
+        },
+        "p_02ec9a37": {
+          "organic": null,
+          "sponsored": 2,
+          "indexed": false,
+          "pages": 2
+        }
+      }
     }
   ]
 }
