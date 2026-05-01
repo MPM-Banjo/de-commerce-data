@@ -9942,6 +9942,101 @@
           "pages": 2
         }
       }
+    },
+    {
+      "ts": "2026-05-01T15:01:53.965Z",
+      "results": {
+        "bs-premium": {
+          "organic": 15,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "bs-classic": {
+          "organic": 7,
+          "sponsored": 3,
+          "indexed": true,
+          "pages": 2
+        },
+        "sb-premium": {
+          "organic": 16,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "sb-classic": {
+          "organic": 10,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_70e4b267": {
+          "organic": 11,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_3a972f93": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_fa1e9b3d": {
+          "organic": 19,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_105cfd4c": {
+          "organic": null,
+          "sponsored": 7,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_ed11b911": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_9ea0db06": {
+          "organic": 8,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_973a7e2d": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_3a4680f9": {
+          "organic": 21,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_b20d23c1": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_932fd071": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_01ebb371": {
+          "organic": null,
+          "sponsored": 18,
+          "indexed": true,
+          "pages": 2
+        }
+      }
     }
   ]
 }
