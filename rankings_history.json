@@ -106,101 +106,6 @@
   ],
   "history": [
     {
-      "ts": "2026-07-16T09:01:25.124Z",
-      "results": {
-        "bs-premium": {
-          "organic": 7,
-          "sponsored": 3,
-          "indexed": true,
-          "pages": 2
-        },
-        "bs-classic": {
-          "organic": 13,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        },
-        "sb-premium": {
-          "organic": 12,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        },
-        "sb-classic": {
-          "organic": null,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        },
-        "p_70e4b267": {
-          "organic": 3,
-          "sponsored": 2,
-          "indexed": true,
-          "pages": 2
-        },
-        "p_3a972f93": {
-          "organic": null,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        },
-        "p_fa1e9b3d": {
-          "organic": 11,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        },
-        "p_105cfd4c": {
-          "organic": 20,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        },
-        "p_ed11b911": {
-          "organic": 20,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        },
-        "p_9ea0db06": {
-          "organic": null,
-          "sponsored": null,
-          "indexed": true,
-          "error": "serp_499"
-        },
-        "p_973a7e2d": {
-          "organic": null,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        },
-        "p_3a4680f9": {
-          "organic": null,
-          "sponsored": 3,
-          "indexed": true,
-          "pages": 1
-        },
-        "p_b20d23c1": {
-          "organic": null,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        },
-        "p_932fd071": {
-          "organic": null,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        },
-        "p_01ebb371": {
-          "organic": 36,
-          "sponsored": null,
-          "indexed": true,
-          "pages": 2
-        }
-      }
-    },
-    {
       "ts": "2026-07-16T12:01:34.703Z",
       "results": {
         "bs-premium": {
@@ -38099,6 +38004,101 @@
         },
         "p_01ebb371": {
           "organic": 18,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        }
+      }
+    },
+    {
+      "ts": "2026-09-05T21:01:47.962Z",
+      "results": {
+        "bs-premium": {
+          "organic": 4,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 1
+        },
+        "bs-classic": {
+          "organic": 13,
+          "sponsored": null,
+          "indexed": null,
+          "pages": 1
+        },
+        "sb-premium": {
+          "organic": 16,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "sb-classic": {
+          "organic": 13,
+          "sponsored": null,
+          "indexed": null,
+          "pages": 2
+        },
+        "p_70e4b267": {
+          "organic": 11,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 1
+        },
+        "p_3a972f93": {
+          "organic": 20,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_fa1e9b3d": {
+          "organic": 11,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 1
+        },
+        "p_105cfd4c": {
+          "organic": 13,
+          "sponsored": null,
+          "indexed": null,
+          "pages": 1
+        },
+        "p_ed11b911": {
+          "organic": 11,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 2
+        },
+        "p_9ea0db06": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "error": "serp_499"
+        },
+        "p_973a7e2d": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "error": "serp_499"
+        },
+        "p_3a4680f9": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "error": "serp_499"
+        },
+        "p_b20d23c1": {
+          "organic": null,
+          "sponsored": null,
+          "indexed": true,
+          "error": "serp_499"
+        },
+        "p_932fd071": {
+          "organic": 39,
+          "sponsored": null,
+          "indexed": true,
+          "pages": 1
+        },
+        "p_01ebb371": {
+          "organic": 15,
           "sponsored": null,
           "indexed": true,
           "pages": 2
